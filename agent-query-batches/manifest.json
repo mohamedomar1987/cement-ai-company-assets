@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-02",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 262,
+  "verified_scenarios_currently_available": 286,
   "current_coverage": [
     {
       "range": "1-100",
@@ -25,10 +25,17 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0201-0262.jsonl",
       "notes": "62 manually differentiated evidence-led cases, 33 previously verified public source URLs; 62 unique IDs and questions, checked against preceding 101-200 JSONL batch. Seller-maintained sources are not independently certified OEM advice."
+    },
+    {
+      "range": "263-286",
+      "format": "JSONL research and buyer verification cases",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0263-0286.jsonl",
+      "notes": "24 evidence-led distinct questions across packer, loading, silo radar, cooler mechanical gaps, roller press, WHR, microscopy and compressed-air systems. 9 public seller-maintained source pages found by web search; 24 IDs and normalized questions read back unique versus prior JSONL batches. No exhaustive WordPress Q1-100 overlap audit or independent OEM validation."
     }
   ],
   "future_batches": {
-    "range_start": 263,
+    "range_start": 287,
     "range_end": 10000,
     "preferred_size": 100,
     "release_gates": [
