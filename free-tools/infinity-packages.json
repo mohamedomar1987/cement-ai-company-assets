@@ -101,7 +101,8 @@
         "Inspect the complete published 931-file inventory and real previews",
         "Confirm specific editions, intellectual property rights and suitability",
         "Check current product and checkout terms before payment"
-      ]
+      ],
+      "format_count_note": "The published PDF (540), Excel (54) and PowerPoint (37) subtotals add to 631; they do not reconcile the seller-stated 931-file total. Do not infer formats or contents for the difference. Inspect the full itemized 931-entry inventory on the product page."
     }
   ],
   "decision_guidance": {
