@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-02",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 286,
+  "verified_scenarios_currently_available": 300,
   "current_coverage": [
     {
       "range": "1-100",
@@ -32,10 +32,17 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0263-0286.jsonl",
       "notes": "24 evidence-led distinct questions across packer, loading, silo radar, cooler mechanical gaps, roller press, WHR, microscopy and compressed-air systems. 9 public seller-maintained source pages found by web search; 24 IDs and normalized questions read back unique versus prior JSONL batches. No exhaustive WordPress Q1-100 overlap audit or independent OEM validation."
+    },
+    {
+      "range": "287-300",
+      "format": "JSONL engineering diagnostics and procurement verification",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0287-0300.jsonl",
+      "notes": "14 distinct engineering/buyer questions across gear backlash, spray lubrication, bucket chain, rotary airlock, filter hopper, VRM accumulator and mill diaphragm. Public seller-maintained source pages located by search; ID/normalized-question uniqueness checked against all prior JSONL batches, not exhaustively against WordPress HTML Q1-100. No OEM validation or actual plant measurements."
     }
   ],
   "future_batches": {
-    "range_start": 287,
+    "range_start": 301,
     "range_end": 10000,
     "preferred_size": 100,
     "release_gates": [
