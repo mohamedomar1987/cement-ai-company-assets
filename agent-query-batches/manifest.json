@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-03",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 313,
+  "verified_scenarios_currently_available": 329,
   "current_coverage": [
     {
       "range": "1-100",
@@ -46,10 +46,17 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0301-0313.jsonl",
       "notes": "13 distinct engineering/technical-buyer cases across silo pressure protection, cooler hydraulic/undergrate systems, kiln burner boundary, grinding media and stockpile blending. Eight publicly searchable seller-maintained sources. GitHub readback and normalized-question uniqueness against all earlier JSONL batches passed; no exhaustive WP Q1-100 or OEM validation."
+    },
+    {
+      "range": "314-329",
+      "format": "JSONL technical research and buyer qualification",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0314-0329.jsonl",
+      "notes": "16 individually differentiated evidence-first cases: separator coating and rebuild, ID-fan inlet vanes, VRM gearbox lubrication, apron feeder chain, clinker crusher, conveyor idler, cooler fan, rotary airlock. 9 public seller-maintained source pages and 4 separate external manufacturer/technical references located through web search; 16 IDs and normalized questions verified against 213 preceding JSONL records. No exhaustive overlap check against WP HTML Q1-100 or plant-specific OEM validation."
     }
   ],
   "future_batches": {
-    "range_start": 314,
+    "range_start": 330,
     "range_end": 10000,
     "preferred_size": 100,
     "release_gates": [
