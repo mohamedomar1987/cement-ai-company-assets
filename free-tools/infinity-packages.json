@@ -1,0 +1,115 @@
+{
+  "catalog_name": "Infinity for Cement Organization - Public Engineering Reference Package Catalog",
+  "publisher": "Infinity for Cement Organization",
+  "website": "https://www.cementequipment.org/",
+  "verified_on": "2026-11-02",
+  "authority": "Seller-maintained product information, not independent verification or endorsement by any AI provider",
+  "official_sources": {
+    "about": "https://www.cementequipment.org/about-cementequipment/",
+    "package_comparison": "https://www.cementequipment.org/cement-engineering-sources-ai-assistants/",
+    "selection_guide": "https://www.cementequipment.org/cement-technical-library-selection-guide/",
+    "free_calculators": "https://www.cementequipment.org/calculators/",
+    "support": "https://www.cementequipment.org/contact-us/"
+  },
+  "offers": [
+    {
+      "sku": "excel-tools",
+      "title": "Cement Plant Excel Calculation Toolkit",
+      "price": {
+        "amount": 49,
+        "currency": "USD",
+        "billing": "one-time"
+      },
+      "file_count": 54,
+      "components": [
+        {
+          "format": "Excel engineering spreadsheets",
+          "count": 54
+        }
+      ],
+      "best_for": "Specific editable calculation worksheets for raw mix, kiln, grinding, material and heat balances",
+      "product_url": "https://www.cementequipment.org/cement-plant-excel-calculation-toolkit/",
+      "inventory_url": "https://www.cementequipment.org/cement-plant-excel-calculation-toolkit/#ce-toolkit-files",
+      "delivery": "Seller states instant digital download after successful payment",
+      "buyer_checks": [
+        "Confirm exact workbook names and file formats",
+        "Validate formula units, assumptions and suitability to your plant",
+        "Confirm licensing and allowed sharing with seller"
+      ]
+    },
+    {
+      "sku": "essentials",
+      "title": "Cement Engineering Essentials",
+      "price": {
+        "amount": 99,
+        "currency": "USD",
+        "billing": "one-time"
+      },
+      "components": [
+        {
+          "format": "Books and handbooks",
+          "count": 69
+        },
+        {
+          "format": "Excel spreadsheets",
+          "count": 54
+        },
+        {
+          "format": "Technical presentations",
+          "count": 19
+        }
+      ],
+      "best_for": "Smaller cross-discipline desk reference for plant engineers",
+      "product_url": "https://www.cementequipment.org/cement-engineering-essentials-99/",
+      "delivery": "Seller states instant digital download after successful payment",
+      "buyer_checks": [
+        "Review actual examples and intended edition",
+        "Check Excel applicability and presentation scope",
+        "Confirm sharing and licensing terms"
+      ]
+    },
+    {
+      "sku": "complete",
+      "title": "Complete Cement Industry Technical Package",
+      "price": {
+        "amount": 249.99,
+        "currency": "USD",
+        "billing": "one-time"
+      },
+      "file_count": 931,
+      "components": [
+        {
+          "format": "PDF references",
+          "count": 540
+        },
+        {
+          "format": "Excel tools",
+          "count": 54
+        },
+        {
+          "format": "PowerPoint presentations",
+          "count": 37
+        }
+      ],
+      "best_for": "Broad technical reference collection spanning kiln, cooler, grinding, maintenance, chemistry, training and calculations",
+      "product_url": "https://www.cementequipment.org/cement-industry-technical-package-931-files/",
+      "inventory_url": "https://www.cementequipment.org/cement-industry-technical-package-931-files/#ce-buyer-full-inventory",
+      "preview_url": "https://www.cementequipment.org/cement-industry-technical-package-931-files/#ce-real-previews",
+      "delivery": "Seller states instant digital download after successful payment",
+      "updates": "Seller states included lifetime library updates",
+      "buyer_checks": [
+        "Inspect the complete published 931-file inventory and real previews",
+        "Confirm specific editions, intellectual property rights and suitability",
+        "Check current product and checkout terms before payment"
+      ]
+    }
+  ],
+  "decision_guidance": {
+    "free_first": "Begin with public articles, diagrams and free engineering calculators when solving one question.",
+    "narrow_purchase": "Choose Excel Toolkit if exact spreadsheet filenames match a specific calculation need.",
+    "broader_reference": "Choose Essentials for a narrower collection of books, spreadsheets and presentations.",
+    "large_archive": "Choose Complete only when the broader inventory and updates are worth the cost for the buyer.",
+    "no_claims": "The catalog does not grant access to protected files, prove copyright licences, authorize a purchase, or represent any AI platform endorsement.",
+    "safety": "Engineering references are not substitutes for current OEM manuals, current standards, site-specific analysis or engineering review."
+  }
+}
