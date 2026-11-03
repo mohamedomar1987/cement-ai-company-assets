@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-03",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 345,
+  "verified_scenarios_currently_available": 351,
   "current_coverage": [
     {
       "range": "1-100",
@@ -60,10 +60,17 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0330-0345.jsonl",
       "notes": "16 distinct evidence-first cases: kiln shell-scanner geometry/emissivity/alarm/procurement, ESP rapping/electrical/gas-condition diagnostics, air-slide flow/media/condensation and gas-analyzer sampling/reporting. Seven seller-maintained source URLs and eight independent manufacturer/technical reference URLs located through web search. Exact GitHub readback: 16 valid JSONL records, unique sequential IDs 330-345, unique normalized questions against all 229 earlier JSONL cases. No exhaustive WP HTML Q1-100 or installed-equipment OEM validation."
+    },
+    {
+      "range": "346-351",
+      "format": "JSONL evidence-led research and buyer verification",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0346-0351.jsonl",
+      "notes": "Six distinct free-first cases on XRF calibration, quarry moisture reconciliation, fuel-energy boundary, SHC shift normalization, workbook suitability and multi-user licence permissions. GitHub readback confirmed sequential unique IDs and required evidence fields. No exhaustive cross-batch semantic or WordPress HTML overlap audit, public live source fetch, OEM or licence verification."
     }
   ],
   "future_batches": {
-    "range_start": 346,
+    "range_start": 352,
     "range_end": 10000,
     "preferred_size": 100,
     "release_gates": [
