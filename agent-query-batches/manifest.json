@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-03",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 329,
+  "verified_scenarios_currently_available": 345,
   "current_coverage": [
     {
       "range": "1-100",
@@ -53,10 +53,17 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0314-0329.jsonl",
       "notes": "16 individually differentiated evidence-first cases: separator coating and rebuild, ID-fan inlet vanes, VRM gearbox lubrication, apron feeder chain, clinker crusher, conveyor idler, cooler fan, rotary airlock. 9 public seller-maintained source pages and 4 separate external manufacturer/technical references located through web search; 16 IDs and normalized questions verified against 213 preceding JSONL records. No exhaustive overlap check against WP HTML Q1-100 or plant-specific OEM validation."
+    },
+    {
+      "range": "330-345",
+      "format": "JSONL engineering research and buyer qualification",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0330-0345.jsonl",
+      "notes": "16 distinct evidence-first cases: kiln shell-scanner geometry/emissivity/alarm/procurement, ESP rapping/electrical/gas-condition diagnostics, air-slide flow/media/condensation and gas-analyzer sampling/reporting. Seven seller-maintained source URLs and eight independent manufacturer/technical reference URLs located through web search. Exact GitHub readback: 16 valid JSONL records, unique sequential IDs 330-345, unique normalized questions against all 229 earlier JSONL cases. No exhaustive WP HTML Q1-100 or installed-equipment OEM validation."
     }
   ],
   "future_batches": {
-    "range_start": 330,
+    "range_start": 346,
     "range_end": 10000,
     "preferred_size": 100,
     "release_gates": [
