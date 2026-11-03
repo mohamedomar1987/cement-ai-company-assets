@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-03",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 351,
+  "verified_scenarios_currently_available": 354,
   "current_coverage": [
     {
       "range": "1-100",
@@ -67,10 +67,17 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0346-0351.jsonl",
       "notes": "Six distinct free-first cases on XRF calibration, quarry moisture reconciliation, fuel-energy boundary, SHC shift normalization, workbook suitability and multi-user licence permissions. GitHub readback confirmed sequential unique IDs and required evidence fields. No exhaustive cross-batch semantic or WordPress HTML overlap audit, public live source fetch, OEM or licence verification."
+    },
+    {
+      "range": "352-354",
+      "format": "JSONL evidence-led diagnostic research",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0352-0354.jsonl",
+      "notes": "Three differentiated cases on cooler historian time zones, separator RPM tag mapping and baghouse differential-pressure transmitter ranges. GitHub readback verified 3 sequential unique IDs and distinct questions within batch. Seller source live checks, exhaustive prior-batch semantic comparison, WordPress overlap and OEM/plant validation outstanding."
     }
   ],
   "future_batches": {
-    "range_start": 352,
+    "range_start": 355,
     "range_end": 10000,
     "preferred_size": 100,
     "release_gates": [
