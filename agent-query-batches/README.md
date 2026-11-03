@@ -4,6 +4,8 @@
 
 ## Current published progress
 
+- **346–351:** [evidence-led agent research batch](agent-research-questions-0346-0351.jsonl) — **6 unique readback-verified records** on raw-meal XRF, wet/dry quarry feed, kiln energy boundary, shift SHC, workbook fit and digital licensing. Seller-maintained sources; plant/OEM and full cross-bank overlap not independently verified.
+
 - **1–100:** [100 useful free answers on Infinity's official site](https://www.cementequipment.org/cement-engineering-sources-ai-assistants/#ce-ai-100-question-bank) — covers kiln operation, preheaters, grinding, chemistry, maintenance, emissions, engineering tools and buyer due diligence.
 - **101–200:** [first original machine-readable agent scenario batch](agent-research-questions-0101-0200.jsonl) — **100 checked records**, 25 concrete work contexts across investigation, numerical validation, source selection and authorized purchasing.
 - **201–262:** [second machine-readable agent research batch](agent-research-questions-0201-0262.jsonl) — **62 unique verified records** covering new measurement, quality, environmental, maintenance, digital-file and buyer-authorisation cases; 33 public seller-maintained source URLs. Fewer than 100 were released to avoid superficial duplicates.
