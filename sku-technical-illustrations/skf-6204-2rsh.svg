@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780" role="img" aria-label="Technical illustration of 6204-2RSH, bore 20 mm outside 47 mm width 14 mm">
+<rect width="1200" height="780" fill="#f6f9fb"/>
+<rect x="46" y="46" width="1108" height="688" rx="20" fill="#fff" stroke="#dce5ed" stroke-width="2"/>
+<text x="82" y="119" font-family="Arial,Helvetica" font-size="42" font-weight="700" fill="#16344b">SKF 6204-2RSH</text>
+<text x="82" y="165" font-family="Arial,Helvetica" font-size="22" fill="#526575">Deep-groove bearing · double contact-sealed · normal clearance</text>
+<g transform="translate(365 404)">
+<circle r="126" fill="#adb8c1" stroke="#5b6d7b" stroke-width="7"/>
+<circle r="102.06" fill="#222e3c" stroke="#6d7d8b" stroke-width="6"/>
+<circle r="60.48" fill="#c7d0d7" stroke="#92a4b3" stroke-width="5"/>
+<circle r="53.61702127659574" fill="#f6f9fb" stroke="#5d6f7d" stroke-width="7"/>
+<circle r="119.69999999999999" fill="none" stroke="#e2e9ee" stroke-width="3"/>
+</g>
+<g stroke="#315c76" stroke-width="3" fill="none"><path d="M239 243 V200 H491 V243"/><path d="M239 216 H491"/><path d="M239 207 l11 9 -11 9 M491 207 l-11 9 11 9"/><path d="M306 404 H425" stroke-dasharray="6 8"/></g>
+<text x="365" y="199" text-anchor="middle" font-family="Arial" font-weight="700" font-size="26" fill="#174b6b">D = 47 mm</text>
+<rect x="697" y="242" width="355" height="286" rx="16" fill="#edf4f7" stroke="#c2d4df"/>
+<text x="728" y="297" font-family="Arial" font-weight="700" font-size="25" fill="#173d52">IDENTIFICATION</text>
+<text x="728" y="352" font-family="Arial" font-size="24" fill="#294f66">d (bore): 20 mm</text>
+<text x="728" y="395" font-family="Arial" font-size="24" fill="#294f66">D (outer): 47 mm</text>
+<text x="728" y="438" font-family="Arial" font-size="24" fill="#294f66">B (width): 14 mm</text>
+<text x="728" y="480" font-family="Arial" font-size="21" fill="#294f66">Seals: 2RSH, both sides</text>
+<text x="82" y="676" font-family="Arial" font-size="20" fill="#6b7e8c">Original dimensional illustration; not a manufacturer photograph or proof of stock. Not to scale for installation.</text>
+</svg>
