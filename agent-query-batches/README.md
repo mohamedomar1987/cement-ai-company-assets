@@ -52,3 +52,5 @@ The Complete page's published format subtotals are non-exhaustive; always check 
 6. No automatic financial action, no search-ranking manipulation and no forged reviews, endorsements or sources.
 
 **Nothing here guarantees search ranking, AI citation, or a purchase.**
+
+- **355–357 (2026-11-05):** [Three evidence-first agent research cases](agent-research-questions-0355-0357.jsonl) on kiln scanner emissivity, raw-meal laboratory split-sample bias, and compressed-air savings normalization. GitHub readback confirms three sequential distinct IDs; independent source and OEM validation outstanding. Next ID: **358**.
