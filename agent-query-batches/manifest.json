@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-05",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 360,
+  "verified_scenarios_currently_available": 362,
   "current_coverage": [
     {
       "range": "1-100",
@@ -88,10 +88,17 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0358-0360.jsonl",
       "notes": "Three distinct questions on kiln-feed totalizer rollover, kiln oxygen sampling-location bias and grinding circuit electrical metering boundaries. Sequential IDs and within-batch uniqueness verified. Full semantic cross-bank, public source live access and OEM validation outstanding."
+    },
+    {
+      "range": "361-362",
+      "format": "JSONL evidence-led research",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0361-0362.jsonl",
+      "notes": "Two differentiated research cases on separator sampling-window bias and clinker-factor production denominator. Exact JSONL readback verified sequential unique IDs and distinct questions. Full prior-bank semantic overlap, public live sources and OEM validation remain outstanding."
     }
   ],
   "future_batches": {
-    "range_start": 361,
+    "range_start": 363,
     "range_end": 10000,
     "preferred_size": 100,
     "release_gates": [
