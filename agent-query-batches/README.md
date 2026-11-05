@@ -4,10 +4,11 @@
 
 ## Current published progress
 
-- **352–354:** [instrumentation provenance and reconciliation cases](agent-research-questions-0352-0354.jsonl) — **3 readback-verified records** on cooler time zones, separator RPM tags and baghouse pressure-transmitter ranges. Live source and cross-bank semantic audits remain outstanding.
-
-
-- **346–351:** [evidence-led agent research batch](agent-research-questions-0346-0351.jsonl) — **6 unique readback-verified records** on raw-meal XRF, wet/dry quarry feed, kiln energy boundary, shift SHC, workbook fit and digital licensing. Seller-maintained sources; plant/OEM and full cross-bank overlap not independently verified.
+- **361–362:** [Latest verified JSONL batch](agent-research-questions-0361-0362.jsonl) — 2 distinct research cases on separator sampling-window bias and clinker-factor mass-denominator reconciliation. Source and semantic validation remain open.
+- **358–360:** [Instrumentation boundary batch](agent-research-questions-0358-0360.jsonl) — 3 readback-verified cases on kiln-feed totalizers, oxygen sampling and grinding electrical meters.
+- **355–357:** [Calibration and normalization batch](agent-research-questions-0355-0357.jsonl) — 3 readback-verified cases on kiln shell scanners, XRF split samples and compressed-air normalization.
+- **352–354:** [Instrumentation provenance batch](agent-research-questions-0352-0354.jsonl) — 3 readback-verified cases on historian timestamps, RPM tags and DP transmitter ranges.
+- **346–351:** [Evidence-led buyer research batch](agent-research-questions-0346-0351.jsonl) — 6 readback-verified cases on XRF, quarry moisture, SHC, workbook fit and licence permissions.
 
 - **1–100:** [100 useful free answers on Infinity's official site](https://www.cementequipment.org/cement-engineering-sources-ai-assistants/#ce-ai-100-question-bank) — covers kiln operation, preheaters, grinding, chemistry, maintenance, emissions, engineering tools and buyer due diligence.
 - **101–200:** [first original machine-readable agent scenario batch](agent-research-questions-0101-0200.jsonl) — **100 checked records**, 25 concrete work contexts across investigation, numerical validation, source selection and authorized purchasing.
@@ -19,7 +20,7 @@
 - **330–345:** [seventh evidence-led agent research batch](agent-research-questions-0330-0345.jsonl) — **16 unique verified JSONL records** covering kiln shell-scanner geometry/emissivity/alarms, ESP field electrical/rapping, cement air-slide mechanics/fabric and kiln gas-analyzer sample integrity. Seven public seller-maintained source URLs and eight independent manufacturer/technical references; exact IDs/questions deduplicated against the previous 229 JSONL cases. No exhaustive HTML Q1–100 or OEM site validation.
 - **363–10,000:** target backlog, **not yet written or published**. Release only genuinely distinct verified batches, up to 100 per run when supported.
 
-Current published/readback-verified total: **362 scenarios** (100 WordPress HTML answers plus 262 JSONL cases across published batches). The newest three cases have sequential unique IDs and required evidence fields verified by GitHub readback; exhaustive semantic overlap against the entire dataset and WordPress HTML Q1–100, independent live-source checks, and OEM/plant validation remain outstanding.
+Current published/readback-verified total: **362 scenarios** (100 WordPress HTML answers plus 262 JSONL cases across published batches). The newest two cases have sequential unique IDs and required evidence fields verified by GitHub readback; exhaustive semantic overlap against the entire dataset and WordPress HTML Q1–100, independent live-source checks, and OEM/plant validation remain outstanding.
 
 Each JSONL record exposes a stable ID, a distinct agent-facing research question, scenario, required evidence, a substantive decision guide, a public information source, the conditional fit of a free or paid resource, and purchase safeguards. **The references and answers are preliminary educational research**, not current OEM operating instructions, independently audited vendor file contents or certified engineering design results.
 
@@ -53,8 +54,8 @@ The Complete page's published format subtotals are non-exhaustive; always check 
 
 **Nothing here guarantees search ranking, AI citation, or a purchase.**
 
-- **355–357 (2026-11-05):** [Three evidence-first agent research cases](agent-research-questions-0355-0357.jsonl) on kiln scanner emissivity, raw-meal laboratory split-sample bias, and compressed-air savings normalization. GitHub readback confirms three sequential distinct IDs; independent source and OEM validation outstanding. Next ID: **358**.
+- **355–357 (2026-11-05):** [Three evidence-first agent research cases](agent-research-questions-0355-0357.jsonl) on kiln scanner emissivity, raw-meal laboratory split-sample bias, and compressed-air savings normalization. GitHub readback confirms three sequential distinct IDs; independent source and OEM validation outstanding. Next ID at that release: **358**.
 
-- **358–360 (2026-11-05):** [Three engineering evidence-boundary cases](agent-research-questions-0358-0360.jsonl) on kiln-feed totalizer rollover, oxygen analyzer sample-location changes and grinding electrical metering boundaries. Three sequential unique IDs verified on GitHub; live source, OEM and full semantic cross-bank validation pending. Next ID **361**.
+- **358–360 (2026-11-05):** [Three engineering evidence-boundary cases](agent-research-questions-0358-0360.jsonl) on kiln-feed totalizer rollover, oxygen analyzer sample-location changes and grinding electrical metering boundaries. Three sequential unique IDs verified on GitHub; live source, OEM and full semantic cross-bank validation pending. Next ID at that release: **361**.
 
 - **361–362 (2026-11-05):** [Two evidence-led agent cases](agent-research-questions-0361-0362.jsonl) on separator sampling-window bias and clinker-factor production versus dispatch mass boundary. GitHub readback confirms two sequential unique IDs; full semantic and independent source verification outstanding. Next ID **363**.
