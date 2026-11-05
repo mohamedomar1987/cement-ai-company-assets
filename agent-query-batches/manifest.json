@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-05",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 357,
+  "verified_scenarios_currently_available": 360,
   "current_coverage": [
     {
       "range": "1-100",
@@ -81,10 +81,17 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0355-0357.jsonl",
       "notes": "Three distinct calibration/sampling/energy-normalization cases; sequential IDs and within-batch uniqueness verified by GitHub readback. Public source live status, OEM validation and exhaustive cross-batch semantic audit remain pending."
+    },
+    {
+      "range": "358-360",
+      "format": "JSONL evidence-led research and buyer verification",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0358-0360.jsonl",
+      "notes": "Three distinct questions on kiln-feed totalizer rollover, kiln oxygen sampling-location bias and grinding circuit electrical metering boundaries. Sequential IDs and within-batch uniqueness verified. Full semantic cross-bank, public source live access and OEM validation outstanding."
     }
   ],
   "future_batches": {
-    "range_start": 358,
+    "range_start": 361,
     "range_end": 10000,
     "preferred_size": 100,
     "release_gates": [
