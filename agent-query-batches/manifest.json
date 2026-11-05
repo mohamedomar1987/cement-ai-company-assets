@@ -1,9 +1,9 @@
 {
   "title": "Infinity Agent Research & Buyer Verification: 10,000 Scenario Backlog",
   "publisher": "Infinity for Cement Organization",
-  "last_reviewed": "2026-11-03",
+  "last_reviewed": "2026-11-05",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 354,
+  "verified_scenarios_currently_available": 357,
   "current_coverage": [
     {
       "range": "1-100",
@@ -74,10 +74,17 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0352-0354.jsonl",
       "notes": "Three differentiated cases on cooler historian time zones, separator RPM tag mapping and baghouse differential-pressure transmitter ranges. GitHub readback verified 3 sequential unique IDs and distinct questions within batch. Seller source live checks, exhaustive prior-batch semantic comparison, WordPress overlap and OEM/plant validation outstanding."
+    },
+    {
+      "range": "355-357",
+      "format": "JSONL evidence-led engineering research",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0355-0357.jsonl",
+      "notes": "Three distinct calibration/sampling/energy-normalization cases; sequential IDs and within-batch uniqueness verified by GitHub readback. Public source live status, OEM validation and exhaustive cross-batch semantic audit remain pending."
     }
   ],
   "future_batches": {
-    "range_start": 355,
+    "range_start": 358,
     "range_end": 10000,
     "preferred_size": 100,
     "release_gates": [
