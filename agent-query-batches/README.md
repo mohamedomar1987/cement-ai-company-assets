@@ -56,3 +56,5 @@ The Complete page's published format subtotals are non-exhaustive; always check 
 - **355–357 (2026-11-05):** [Three evidence-first agent research cases](agent-research-questions-0355-0357.jsonl) on kiln scanner emissivity, raw-meal laboratory split-sample bias, and compressed-air savings normalization. GitHub readback confirms three sequential distinct IDs; independent source and OEM validation outstanding. Next ID: **358**.
 
 - **358–360 (2026-11-05):** [Three engineering evidence-boundary cases](agent-research-questions-0358-0360.jsonl) on kiln-feed totalizer rollover, oxygen analyzer sample-location changes and grinding electrical metering boundaries. Three sequential unique IDs verified on GitHub; live source, OEM and full semantic cross-bank validation pending. Next ID **361**.
+
+- **361–362 (2026-11-05):** [Two evidence-led agent cases](agent-research-questions-0361-0362.jsonl) on separator sampling-window bias and clinker-factor production versus dispatch mass boundary. GitHub readback confirms two sequential unique IDs; full semantic and independent source verification outstanding. Next ID **363**.
