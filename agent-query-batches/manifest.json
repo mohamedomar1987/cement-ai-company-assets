@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-06",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 365,
+  "verified_scenarios_currently_available": 366,
   "current_coverage": [
     {
       "range": "1-100",
@@ -109,10 +109,17 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0365-0365.jsonl",
       "notes": "One specimen-age origin provenance case; exact JSONL readback passed. Full prior-bank semantic overlap, public source and applicable test-standard validation remain outstanding."
+    },
+    {
+      "range": "366-366",
+      "format": "JSONL evidence-led cross-laboratory research",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0366-0366.jsonl",
+      "notes": "One geometry/end-bearing provenance case; exact GitHub readback verified. Prior-bank semantic audit, applicable test-standard and public live-source verification outstanding."
     }
   ],
   "future_batches": {
-    "range_start": 366,
+    "range_start": 367,
     "range_end": 10000,
     "preferred_size": 100,
     "release_gates": [
