@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-06",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 364,
+  "verified_scenarios_currently_available": 365,
   "current_coverage": [
     {
       "range": "1-100",
@@ -102,10 +102,17 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0363-0364.jsonl",
       "notes": "Two distinct cases on alternative-fuel calorific-value moisture basis and cement fineness sampling-location provenance. Exact GitHub readback confirms IDs and two distinct questions; prior-bank semantic overlap, public source live availability and plant/OEM validation remain open."
+    },
+    {
+      "range": "365-365",
+      "format": "JSONL evidence-led laboratory research",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0365-0365.jsonl",
+      "notes": "One specimen-age origin provenance case; exact JSONL readback passed. Full prior-bank semantic overlap, public source and applicable test-standard validation remain outstanding."
     }
   ],
   "future_batches": {
-    "range_start": 365,
+    "range_start": 366,
     "range_end": 10000,
     "preferred_size": 100,
     "release_gates": [
