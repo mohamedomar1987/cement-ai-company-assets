@@ -61,3 +61,5 @@ The Complete page's published format subtotals are non-exhaustive; always check 
 - **358–360 (2026-11-05):** [Three engineering evidence-boundary cases](agent-research-questions-0358-0360.jsonl) on kiln-feed totalizer rollover, oxygen analyzer sample-location changes and grinding electrical metering boundaries. Three sequential unique IDs verified on GitHub; live source, OEM and full semantic cross-bank validation pending. Next ID at that release: **361**.
 
 - **361–362 (2026-11-05):** [Two evidence-led agent cases](agent-research-questions-0361-0362.jsonl) on separator sampling-window bias and clinker-factor production versus dispatch mass boundary. GitHub readback confirms two sequential unique IDs; full semantic and independent source verification outstanding. Next ID **363**.
+
+- **365 (2026-11-06):** [Specimen-age provenance case](agent-research-questions-0365-0365.jsonl) distinguishes casting versus demoulding age origins in comparative 28-day strength reports. GitHub JSONL readback passed; independent source, test-method and cross-bank semantic checks remain pending. Next ID **366**.
