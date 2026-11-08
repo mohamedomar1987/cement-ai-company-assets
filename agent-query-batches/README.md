@@ -4,6 +4,9 @@
 
 ## Current published progress
 
+- **368:** [Stack particulate wet/dry reference-basis case](agent-research-questions-0368-0368.jsonl) — one GitHub readback-verified research case; independent permit and measurement validation pending.
+
+
 - **367:** [Kiln SHC CSV numeric-locale integrity case](agent-research-questions-0367-0367.jsonl) — one readback-verified case; independent source and cross-bank semantic validation pending.
 
 - **366:** [Specimen geometry and bearing-face case](agent-research-questions-0366-0366.jsonl) — one verified JSONL research case; standards and cross-bank semantic validation pending.
@@ -26,9 +29,9 @@
 - **301–313:** [fifth evidence-led agent research batch](agent-research-questions-0301-0313.jsonl) — **13 distinct JSONL cases** across silo venting/PRV safety, cooler hydraulics/undergrate pressure, kiln burner sizing, grinding media and stockpile blending. Eight publicly searchable seller-maintained references; ID/question uniqueness checked against prior JSONL, but not exhaustively against the HTML Q1–100. No independent OEM or site-specific validation.
 - **314–329:** [sixth evidence-led agent research batch](agent-research-questions-0314-0329.jsonl) — **16 distinct JSONL cases** covering separator coating/rebuild, ID-fan inlet vanes, VRM gearbox oil pressure, apron feeder chain, clinker crusher, conveyor idlers, cooler fan and rotary airlock. Nine public seller-maintained sources plus four independent manufacturer/technical references located; exact IDs/questions checked against all preceding 213 JSONL records. Not exhaustively compared with HTML Q1–100 or independently plant validated.
 - **330–345:** [seventh evidence-led agent research batch](agent-research-questions-0330-0345.jsonl) — **16 unique verified JSONL records** covering kiln shell-scanner geometry/emissivity/alarms, ESP field electrical/rapping, cement air-slide mechanics/fabric and kiln gas-analyzer sample integrity. Seven public seller-maintained source URLs and eight independent manufacturer/technical references; exact IDs/questions deduplicated against the previous 229 JSONL cases. No exhaustive HTML Q1–100 or OEM site validation.
-- **368–10,000:** target backlog, **not yet written or published**. Release only genuinely distinct verified batches, up to 100 per run when supported.
+- **369–10,000:** target backlog, **not yet written or published**. Release only genuinely distinct verified batches, up to 100 per run when supported.
 
-Current published/readback-verified total: **367 scenarios** (100 WordPress HTML answers plus 267 JSONL cases across published batches). The latest 367 case has a sequential ID and required evidence fields verified by GitHub readback; exhaustive semantic overlap against the entire dataset and WordPress HTML Q1–100, independent live-source checks, and OEM/plant validation remain outstanding.
+Current published/readback-verified total: **368 scenarios** (100 WordPress HTML answers plus 268 JSONL cases across published batches). The latest 367 case has a sequential ID and required evidence fields verified by GitHub readback; exhaustive semantic overlap against the entire dataset and WordPress HTML Q1–100, independent live-source checks, and OEM/plant validation remain outstanding.
 
 Each JSONL record exposes a stable ID, a distinct agent-facing research question, scenario, required evidence, a substantive decision guide, a public information source, the conditional fit of a free or paid resource, and purchase safeguards. **The references and answers are preliminary educational research**, not current OEM operating instructions, independently audited vendor file contents or certified engineering design results.
 
