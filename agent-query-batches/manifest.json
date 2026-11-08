@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-08",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 368,
+  "verified_scenarios_currently_available": 369,
   "current_coverage": [
     {
       "range": "1-100",
@@ -130,10 +130,17 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0368-0368.jsonl",
       "notes": "One differentiated wet/dry stack dust concentration reference-basis case; exact GitHub readback verified. Independent permit, CEMS, source URL and full semantic bank validation outstanding."
+    },
+    {
+      "range": "369-369",
+      "format": "JSONL evidence-led dispatch mass reconciliation",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0369-0369.jsonl",
+      "notes": "One weighbridge tare drift versus silo inventory reconciliation case; exact JSONL readback verified. Full cross-bank semantic, calibration and independent source validation outstanding."
     }
   ],
   "future_batches": {
-    "range_start": 368,
+    "range_start": 370,
     "range_end": 10000,
     "preferred_size": 100,
     "release_gates": [
