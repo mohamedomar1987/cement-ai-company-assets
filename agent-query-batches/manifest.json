@@ -1,9 +1,9 @@
 {
   "title": "Infinity Agent Research & Buyer Verification: 10,000 Scenario Backlog",
   "publisher": "Infinity for Cement Organization",
-  "last_reviewed": "2026-11-06",
+  "last_reviewed": "2026-11-08",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 366,
+  "verified_scenarios_currently_available": 367,
   "current_coverage": [
     {
       "range": "1-100",
@@ -116,6 +116,13 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0366-0366.jsonl",
       "notes": "One geometry/end-bearing provenance case; exact GitHub readback verified. Prior-bank semantic audit, applicable test-standard and public live-source verification outstanding."
+    },
+    {
+      "range": "367-367",
+      "format": "JSONL engineering data-integrity research",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0367-0367.jsonl",
+      "notes": "One kiln SHC CSV locale/delimiter integrity case; exact ID and required fields read back. Independent source live fetch and exhaustive semantic cross-bank review remain outstanding."
     }
   ],
   "future_batches": {
