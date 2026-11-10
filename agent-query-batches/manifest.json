@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-10",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 372,
+  "verified_scenarios_currently_available": 373,
   "current_coverage": [
     {
       "range": "1-100",
@@ -158,6 +158,13 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0372-0372.jsonl",
       "notes": "One dynamic-versus-static bag mass verification case; exact GitHub readback and unique next ID confirmed. Cross-bank semantic audit, independent metrology sources and site-specific validation pending."
+    },
+    {
+      "range": "373-373",
+      "format": "JSONL evidence-led custody research",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0373-0373.jsonl",
+      "notes": "One readback-verified case on bulk tanker dispatch-to-receipt mass custody reconciliation; independent metrology, full semantic overlap and plant validation pending."
     }
   ],
   "future_batches": {
