@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-10",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 371,
+  "verified_scenarios_currently_available": 372,
   "current_coverage": [
     {
       "range": "1-100",
@@ -151,6 +151,13 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0371-0371.jsonl",
       "notes": "One cement 28-day strength split-sample and laboratory chain-of-custody research case; exact record readback verified. Cross-bank semantic comparison, applicable test standards and independent lab validation pending."
+    },
+    {
+      "range": "372-372",
+      "format": "JSONL evidence-led research and buyer verification",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0372-0372.jsonl",
+      "notes": "One dynamic-versus-static bag mass verification case; exact GitHub readback and unique next ID confirmed. Cross-bank semantic audit, independent metrology sources and site-specific validation pending."
     }
   ],
   "future_batches": {
