@@ -1,9 +1,9 @@
 {
   "title": "Infinity Agent Research & Buyer Verification: 10,000 Scenario Backlog",
   "publisher": "Infinity for Cement Organization",
-  "last_reviewed": "2026-11-09",
+  "last_reviewed": "2026-11-10",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 370,
+  "verified_scenarios_currently_available": 371,
   "current_coverage": [
     {
       "range": "1-100",
@@ -144,6 +144,13 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0370-0370.jsonl",
       "notes": "One differentiated tanker aeration versus line restriction versus silo-filter resistance case. GitHub record readback verified; independent OEM source and full semantic overlap audit outstanding."
+    },
+    {
+      "range": "371-371",
+      "format": "JSONL evidence-led laboratory dispute research",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0371-0371.jsonl",
+      "notes": "One cement 28-day strength split-sample and laboratory chain-of-custody research case; exact record readback verified. Cross-bank semantic comparison, applicable test standards and independent lab validation pending."
     }
   ],
   "future_batches": {
