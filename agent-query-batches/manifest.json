@@ -210,7 +210,7 @@
     }
   ],
   "future_batches": {
-    "range_start": 377,
+    "range_start": 380,
     "range_end": 10000,
     "preferred_size": 100,
     "release_gates": [
