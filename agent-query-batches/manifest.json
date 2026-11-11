@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-11",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 377,
+  "verified_scenarios_currently_available": 378,
   "current_coverage": [
     {
       "range": "1-100",
@@ -193,6 +193,13 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0377-0377.jsonl",
       "notes": "One kiln chloride-bypass mass-balance and recycle-boundary case; exact GitHub readback verified. Full semantic bank and independent plant/OEM validation outstanding."
+    },
+    {
+      "range": "378-378",
+      "format": "JSONL evidence-led laboratory research",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0378-0378.jsonl",
+      "notes": "One Blaine interlaboratory fineness reproducibility case; exact JSONL readback verified. Current ASTM/EN method, independent lab and exhaustive semantic cross-bank validation outstanding."
     }
   ],
   "future_batches": {
