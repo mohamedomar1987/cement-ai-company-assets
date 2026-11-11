@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-11",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 375,
+  "verified_scenarios_currently_available": 376,
   "current_coverage": [
     {
       "range": "1-100",
@@ -179,10 +179,17 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0375-0375.jsonl",
       "notes": "One distinct bulk tanker prior-cargo chloride provenance case; GitHub exact readback passed. Independent laboratory/standards and full semantic cross-bank validation pending."
+    },
+    {
+      "range": "376-376",
+      "format": "JSONL evidence-led technical research",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0376-0376.jsonl",
+      "notes": "One sulfate phase versus fineness and early-strength provenance case; exact record readback verified. Independent laboratory/standard validation and exhaustive semantic bank comparison outstanding."
     }
   ],
   "future_batches": {
-    "range_start": 376,
+    "range_start": 377,
     "range_end": 10000,
     "preferred_size": 100,
     "release_gates": [
