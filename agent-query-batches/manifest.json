@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-11",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 378,
+  "verified_scenarios_currently_available": 379,
   "current_coverage": [
     {
       "range": "1-100",
@@ -200,6 +200,13 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0378-0378.jsonl",
       "notes": "One Blaine interlaboratory fineness reproducibility case; exact JSONL readback verified. Current ASTM/EN method, independent lab and exhaustive semantic cross-bank validation outstanding."
+    },
+    {
+      "range": "379-379",
+      "format": "JSONL evidence-led laboratory research",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0379-0379.jsonl",
+      "notes": "One chloride titration reagent-lot and XRF measurand reconciliation case. Exact ID/readback verified; independent laboratory method, public-source applicability and full semantic cross-bank audit pending."
     }
   ],
   "future_batches": {
