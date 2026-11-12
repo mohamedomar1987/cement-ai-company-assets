@@ -1,3 +1,5 @@
+- **384 (2026-11-12):** [Sulfate phase sample-handling provenance](agent-research-questions-0384-0384.jsonl) — exact GitHub readback verified; laboratory method, plant data and full semantic audit pending. Next ID **385**.
+
 - **383 (2026-11-12):** [Pulse-valve air-use attribution](agent-research-questions-0383-0383.jsonl) — GitHub readback verified; OEM, plant data and full semantic audit pending. Next ID **384**.
 
 - **382 (2026-11-12):** [Separator fan energy attribution after bag replacement](agent-research-questions-0382-0382.jsonl) — exact GitHub readback verified; OEM fan curves and cross-bank semantic audit pending. Next ID **384**.
