@@ -1,3 +1,5 @@
+- **382 (2026-11-12):** [Separator fan energy attribution after bag replacement](agent-research-questions-0382-0382.jsonl) — exact GitHub readback verified; OEM fan curves and cross-bank semantic audit pending. Next ID **383**.
+
 - **381 (2026-11-12):** [Baghouse pulse compressed-air attribution](agent-research-questions-0381-0381.jsonl) — one GitHub-readback verified research case separating PLC timing, leaks, regulation and shared-header allocation; OEM and cross-bank semantic validation pending. Next ID **382**.
 
 # Infinity for Cement Organization — 10,000 agent-research scenario program
