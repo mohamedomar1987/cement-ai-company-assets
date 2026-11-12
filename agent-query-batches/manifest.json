@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-12",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 382,
+  "verified_scenarios_currently_available": 383,
   "current_coverage": [
     {
       "range": "1-100",
@@ -228,6 +228,13 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0382-0382.jsonl",
       "notes": "One separator fan energy attribution case after bag replacement; exact GitHub readback verified. OEM fan curves, calibrated site data and exhaustive semantic bank validation outstanding."
+    },
+    {
+      "range": "383-383",
+      "format": "JSONL evidence-led engineering research",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0383-0383.jsonl",
+      "notes": "Pulse-valve seat leakage vs pulse timing and shared compressor header allocation. Exact GitHub readback verified; full semantic overlap, OEM and plant data unverified."
     }
   ],
   "future_batches": {
