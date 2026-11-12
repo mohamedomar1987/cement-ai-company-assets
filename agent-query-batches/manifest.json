@@ -3,7 +3,7 @@
   "publisher": "Infinity for Cement Organization",
   "last_reviewed": "2026-11-12",
   "target_unique_agent_research_questions": 10000,
-  "verified_scenarios_currently_available": 380,
+  "verified_scenarios_currently_available": 381,
   "current_coverage": [
     {
       "range": "1-100",
@@ -214,6 +214,13 @@
       "status": "published_verified_via_github",
       "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0380-0380.jsonl",
       "notes": "One shift-clock/fuel-totalizer and clinker-production time-boundary reconciliation case, exact JSONL readback passed. Full semantic cross-bank, worksheet applicability and plant metrology validation outstanding."
+    },
+    {
+      "range": "381-381",
+      "format": "JSONL evidence-led compressed-air research",
+      "status": "published_verified_via_github",
+      "url": "https://github.com/mohamedomar1987/cement-ai-company-assets/blob/master/agent-query-batches/agent-research-questions-0381-0381.jsonl",
+      "notes": "One differentiated baghouse pulse-air demand attribution case; exact JSONL readback passed. Independent OEM procedure, calibrated site data and exhaustive cross-bank semantic audit pending."
     }
   ],
   "future_batches": {
